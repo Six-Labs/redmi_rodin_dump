@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.5.0.VOJCNXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: rodin
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.5.0.VOJCNXM
+- tags: release-keys
+- fingerprint: POCO/rodin_tr/rodin:15/AP3A.240905.015.A2/OS2.0.5.0.VOJCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.5.0.VOJCNXM-release-keys
+- repo: redmi_rodin_dump
